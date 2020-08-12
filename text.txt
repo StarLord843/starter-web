@@ -2,5 +2,4 @@ Hello World
 Hello Kaushal
 
 
-
-help me god
+practising merging operation in git
