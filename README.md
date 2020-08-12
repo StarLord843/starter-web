@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ### Purpose
 
+Adding a line for rebasing
+
 ## How to contribute
 
 #### Deployment
