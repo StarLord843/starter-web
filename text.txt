@@ -3,3 +3,6 @@ Hello Kaushal
 
 
 practising merging operation in git
+
+
+Just a random update
