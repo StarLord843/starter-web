@@ -19,3 +19,6 @@ Adding a line for rebasing
 My name is khan and i am not a terrorist
 
 Please fork this repository
+
+# Rebasing feature
+This feature is exclusively for rebaseing
