@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 hello world from myfeature branch
-
+hello world
 ## Introduction
 
 Sample website with plenty of files for demos
