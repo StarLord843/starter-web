@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ### Purpose
 
-Adding a line for rebasing
+My name is kaushal kumar. I am from IIT Guwahati
 
 ## How to contribute
 
