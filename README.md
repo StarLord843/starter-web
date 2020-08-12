@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 #### Deployment
 
+# Copyright
 My name is khan and i am not a terrorist
