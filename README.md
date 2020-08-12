@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 # Copyright
 My name is khan and i am not a terrorist
+
+Please fork this repository
