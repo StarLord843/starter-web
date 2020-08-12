@@ -1,2 +1,5 @@
 Hello World
 Hello Kaushal
+
+
+practising merging operation in git
