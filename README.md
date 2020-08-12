@@ -17,7 +17,7 @@ My name is kaushal kumar. I am from IIT Guwahati
 
 # Copyright
 My name is khan and i am not a terrorist
-
+All right reserved.
 Please fork this repository
 
 # Rebasing feature
